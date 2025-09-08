@@ -3,9 +3,9 @@
 This is a navigation metrics calculation and sensor performance comparison demo project based on Habitat-Sim. The project simulates navigation tasks with different sensor types (RGB, RGB-D, depth) to calculate key metrics such as SPL (Success weighted by Path Length) and path length, while generating high-quality navigation demo videos.
 
 ## Videos
-[<img src="rgb.png" width="450" alt="Watch the demo video">](https://www.bilibili.com/video/BV1cwaRzpEr7/?spm_id_from=333.1387.upload.video_card.click&vd_source=3e9614880d00ee2633a68b2f76988428)
-[<img src="d.png" width="450" alt="Watch the demo video">](https://www.bilibili.com/video/BV1rwaRzpEBs/?spm_id_from=333.1387.upload.video_card.click&vd_source=3e9614880d00ee2633a68b2f76988428)
-[<img src="rgbd.png" width="450" alt="Watch the demo video">](https://www.bilibili.com/video/BV1FwaRzpEdA/?spm_id_from=333.1387.upload.video_card.click&vd_source=3e9614880d00ee2633a68b2f76988428)
+[<img src="rgb.png" height="200" width="200" alt="Watch the demo video">](https://www.bilibili.com/video/BV1cwaRzpEr7/?spm_id_from=333.1387.upload.video_card.click&vd_source=3e9614880d00ee2633a68b2f76988428)
+[<img src="d.png" height="200" width="200" alt="Watch the demo video">](https://www.bilibili.com/video/BV1rwaRzpEBs/?spm_id_from=333.1387.upload.video_card.click&vd_source=3e9614880d00ee2633a68b2f76988428)
+[<img src="rgbd.png" height="200" width="200" alt="Watch the demo video">](https://www.bilibili.com/video/BV1FwaRzpEdA/?spm_id_from=333.1387.upload.video_card.click&vd_source=3e9614880d00ee2633a68b2f76988428)
 
 
 ## Dependency Installation
