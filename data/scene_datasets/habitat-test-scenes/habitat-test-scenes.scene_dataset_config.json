@@ -1,0 +1,25 @@
+{
+  "type": "scene_dataset",
+  "content": {
+    "scenes": [
+      {
+        "id": "skokloster-castle",
+        "stage_instance": "skokloster-castle.glb",
+        "navmesh_instance": "skokloster-castle.navmesh",
+        "lighting_setup": "default_lighting"
+      },
+      {
+        "id": "apartment_1", 
+        "stage_instance": "apartment_1.glb",
+        "navmesh_instance": "apartment_1.navmesh",
+        "lighting_setup": "default_lighting"
+      },
+      {
+        "id": "van-gogh-room",
+        "stage_instance": "van-gogh-room.glb", 
+        "navmesh_instance": "van-gogh-room.navmesh",
+        "lighting_setup": "default_lighting"
+      }
+    ]
+  }
+}

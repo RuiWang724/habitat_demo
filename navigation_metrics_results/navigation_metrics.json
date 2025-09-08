@@ -1,0 +1,97 @@
+{
+  "rgb_results": [
+    {
+      "success": true,
+      "spl": 0.6700576331866551,
+      "path_length": 18.217172689581723,
+      "shortest_path_length": 12.206555615733702,
+      "efficiency": 0.6700576331866551,
+      "steps": 70
+    }
+  ],
+  "rgbd_results": [
+    {
+      "success": true,
+      "spl": 0.8693991096669451,
+      "path_length": 14.040220975622884,
+      "shortest_path_length": 12.206555615733702,
+      "efficiency": 0.8693991096669451,
+      "steps": 74
+    }
+  ],
+  "d_results": [
+    {
+      "success": true,
+      "spl": 0.7549372003935368,
+      "path_length": 16.16896823917356,
+      "shortest_path_length": 12.206555615733702,
+      "efficiency": 0.7549372003935368,
+      "steps": 66
+    }
+  ],
+  "sensor_analysis": {
+    "rgb": {
+      "sensor_name": "RGB",
+      "avg_clarity": 79.31092472878096,
+      "avg_brightness": 83.54877868652343,
+      "avg_contrast": 44.21304944098132,
+      "depth_info": {},
+      "num_observations": 25
+    },
+    "rgbd": {
+      "sensor_name": "RGB-D",
+      "avg_clarity": 94.22704407806147,
+      "avg_brightness": 80.17223754882812,
+      "avg_contrast": 49.83611255242231,
+      "depth_info": {
+        "min_depth": 0.0,
+        "max_depth": 10.269562721252441,
+        "mean_depth": 1.0417674779891968,
+        "depth_range": 10.269562721252441
+      },
+      "num_observations": 25
+    },
+    "d": {
+      "sensor_name": "D",
+      "avg_clarity": 76.57443126884978,
+      "avg_brightness": 78.60999408721923,
+      "avg_contrast": 41.74961994435309,
+      "depth_info": {
+        "min_depth": 0.0,
+        "max_depth": 10.162568092346191,
+        "mean_depth": 0.9473420977592468,
+        "depth_range": 10.162568092346191
+      },
+      "num_observations": 25
+    }
+  },
+  "comparison": {
+    "rgb": {
+      "success_rate": 1.0,
+      "avg_spl": 0.6700576331866551,
+      "avg_path_length": 18.217172689581723,
+      "avg_efficiency": 0.6700576331866551
+    },
+    "rgbd": {
+      "success_rate": 1.0,
+      "avg_spl": 0.8693991096669451,
+      "avg_path_length": 14.040220975622884,
+      "avg_efficiency": 0.8693991096669451
+    },
+    "d": {
+      "success_rate": 1.0,
+      "avg_spl": 0.7549372003935368,
+      "avg_path_length": 16.16896823917356,
+      "avg_efficiency": 0.7549372003935368
+    },
+    "improvements": {
+      "rgbd_vs_rgb_spl": 0.19934147648029,
+      "d_vs_rgb_spl": 0.08487956720688172,
+      "d_vs_rgbd_spl": -0.11446190927340827,
+      "rgbd_vs_rgb_success": 0.0,
+      "d_vs_rgb_success": 0.0,
+      "d_vs_rgbd_success": 0.0
+    }
+  },
+  "video_files": []
+}
