@@ -2,13 +2,10 @@
 
 This is a navigation metrics calculation and sensor performance comparison demo project based on Habitat-Sim. The project simulates navigation tasks with different sensor types (RGB, RGB-D, depth) to calculate key metrics such as SPL (Success weighted by Path Length) and path length, while generating high-quality navigation demo videos.
 
-## Project Features
-
-- **Navigation Metrics Calculation**: Calculate key navigation metrics such as SPL, path length, and efficiency
-- **Sensor Performance Comparison**: Compare navigation performance of RGB, RGB-D, and depth sensors
-- **High-Quality Video Generation**: Generate 1024x1024 resolution, 30fps navigation demo videos
-- **Sensor Quality Analysis**: Analyze image clarity, brightness, contrast, and depth information
-- **Detailed Report Generation**: Automatically generate Markdown format comparison analysis reports
+## Videos
+[![Watch the video](rgb.png)](https://www.bilibili.com/video/BV1cwaRzpEr7/?spm_id_from=333.1387.upload.video_card.click&vd_source=3e9614880d00ee2633a68b2f76988428)
+[![Watch the video](d.png)](https://www.bilibili.com/video/BV1rwaRzpEBs/?spm_id_from=333.1387.upload.video_card.click&vd_source=3e9614880d00ee2633a68b2f76988428)
+[![Watch the video](rgbd.png)](https://www.bilibili.com/video/BV1FwaRzpEdA/?spm_id_from=333.1387.upload.video_card.click&vd_source=3e9614880d00ee2633a68b2f76988428)
 
 ## Dependency Installation
 
